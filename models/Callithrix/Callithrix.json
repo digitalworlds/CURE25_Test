@@ -91,11 +91,11 @@
       "identifyingQuestions": [
         {
           "question": "Which bone does the mallithrix use to gouge trees?",
-          "answer": "teeth" 
+          "answerId": "teeth" 
         },
         {
           "question": "Which bone is the only moveable bone in the body?",
-          "answer": "mandible" 
+          "answerId": "mandible" 
         }
       ],
       "multipleChoiceQuestions": [
