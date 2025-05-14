@@ -7,149 +7,107 @@
         {
             "PartName": "Ethmoid",
             "DisplayName": "Ethmoid Bone",
-            "PartDescription": "The Ethmoid Bone",
-            "PartColor": "#ff0000",
-            "PartType": "Bone"
+            "PartDescription": "The Ethmoid Bone"
         },
         {
             "PartName": "Lfrontal",
             "DisplayName": "Left Frontal Bone",
-            "PartDescription": "The Lfrontal Bone",
-            "PartColor": "#ff8f00",
-            "PartType": "Bone"
+            "PartDescription": "The Lfrontal Bone"
         },
         {
             "PartName": "Linferiornasalconcha",
             "DisplayName": "Left Inferior Nasal Concha Bone",
-            "PartDescription": "The Linferiornasalconcha Bone",
-            "PartColor": "#fbff00",
-            "PartType": "Bone"
+            "PartDescription": "The Linferiornasalconcha Bone"
         },
         {
             "PartName": "Lmaxilla",
             "DisplayName": ":eft Maxilla Bone",
-            "PartDescription": "The Lmaxilla Bone",
-            "PartColor": "#27ff00",
-            "PartType": "Tooth"
+            "PartDescription": "The Lmaxilla Bone"
         },
         {
             "PartName": "Lnasal",
             "DisplayName": "Left Nasal Bone",
-            "PartDescription": "The Lnasal Bone",
-            "PartColor": "#001fff",
-            "PartType": "Bone"
+            "PartDescription": "The Lnasal Bone"
         },
         {
             "PartName": "Lpalatine",
             "DisplayName": "Left Palatine Bone",
-            "PartDescription": "The Lpalatine Bone",
-            "PartColor": "#8000ff",
-            "PartType": "Bone"
+            "PartDescription": "The Lpalatine Bone"
         },
         {
             "PartName": "Lparietal",
             "DisplayName": "Left Parietal Bone",
-            "PartDescription": "The Lparietal Bone",
-            "PartColor": "#ff00ff",
-            "PartType": "Bone"
+            "PartDescription": "The Lparietal Bone"
         },
         {
             "PartName": "Ltemporal2",
             "DisplayName": "Left Temporal Bone",
-            "PartDescription": "The Ltemporal2 Bone",
-            "PartColor": "#ff0000",
-            "PartType": "Bone"
+            "PartDescription": "The Ltemporal2 Bone"
         },
         {
             "PartName": "Lzygomatic",
             "DisplayName": "Left Zygomatic Bone",
-            "PartDescription": "The Lzygomatic Bone",
-            "PartColor": "#ff8f00",
-            "PartType": "Bone"
+            "PartDescription": "The Lzygomatic Bone"
         },
         {
             "PartName": "Mandible",
             "DisplayName": "Mandible Bone",
-            "PartDescription": "The Mandible Bone",
-            "PartColor": "#fbff00",
-            "PartType": "Tooth"
+            "PartDescription": "The Mandible Bone"
         },
         {
             "PartName": "Occipital",
             "DisplayName": "Occipital Bone",
-            "PartDescription": "The Occipital Bone",
-            "PartColor": "#27ff00",
-            "PartType": "Bone"
+            "PartDescription": "The Occipital Bone"
         },
         {
             "PartName": "Rfrontal",
             "DisplayName": "Right Frontal Bone",
-            "PartDescription": "The Rfrontal Bone",
-            "PartColor": "#001fff",
-            "PartType": "Bone"
+            "PartDescription": "The Rfrontal Bone"
         },
         {
             "PartName": "Rinferiornasalconcha",
             "DisplayName": "Right Inferior Nasala Concha Bone",
-            "PartDescription": "The Rinferiornasalconcha Bone",
-            "PartColor": "#8000ff",
-            "PartType": "Bone"
+            "PartDescription": "The Rinferiornasalconcha Bone"
         },
         {
             "PartName": "Rmaxilla",
             "DisplayName": "Right Maxilla Bone",
-            "PartDescription": "The Rmaxilla Bone",
-            "PartColor": "#ff00ff",
-            "PartType": "Tooth"
+            "PartDescription": "The Rmaxilla Bone"
         },
         {
             "PartName": "Rnasal",
             "DisplayName": "Right Nasal Bone",
-            "PartDescription": "The Rnasal Bone",
-            "PartColor": "#ff0000",
-            "PartType": "Bone"
+            "PartDescription": "The Rnasal Bone"
         },
         {
             "PartName": "Rpalatine",
             "DisplayName": "Right Palatine Bone",
-            "PartDescription": "The Rpalatine Bone",
-            "PartColor": "#ff8f00",
-            "PartType": "Bone"
+            "PartDescription": "The Rpalatine Bone"
         },
         {
             "PartName": "Rparietal",
             "DisplayName": "Right Parietal Bone",
-            "PartDescription": "The Rparietal Bone",
-            "PartColor": "#fbff00",
-            "PartType": "Bone"
+            "PartDescription": "The Rparietal Bone"
         },
         {
             "PartName": "Rtemporal2",
             "DisplayName": "Right Temporal Bone",
-            "PartDescription": "The Rtemporal2 Bone",
-            "PartColor": "#27ff00",
-            "PartType": "Bone"
+            "PartDescription": "The Rtemporal2 Bone"
         },
         {
             "PartName": "Rzygomatic",
             "DisplayName": "Right Zygomatic Bone",
-            "PartDescription": "The Rzygomatic Bone",
-            "PartColor": "#001fff",
-            "PartType": "Bone"
+            "PartDescription": "The Rzygomatic Bone"
         },
         {
             "PartName": "Sphenoid",
             "DisplayName": "Sphenoid Bone",
-            "PartDescription": "The Sphenoid Bone",
-            "PartColor": "#8000ff",
-            "PartType": "Bone"
+            "PartDescription": "The Sphenoid Bone"
         },
         {
             "PartName": "Vomer",
             "DisplayName": "Vomer Bone",
-            "PartDescription": "The Vomer Bone",
-            "PartColor": "#ff00ff",
-            "PartType": "Bone"
+            "PartDescription": "The Vomer Bone"
         }
     ]
 }

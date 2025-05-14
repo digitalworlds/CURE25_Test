@@ -1,0 +1,31 @@
+{
+  "ColorDictionary": 
+  [
+    { "key": "Ethmoid", "value": "#ff0000" },
+    { "key": "Lfrontal", "value": "#ff8f00" },
+    { "key": "Linferiornasalconcha", "value": "#fbff00" },
+    { "key": "Lmaxilla", "value": "#27ff00" },
+    { "key": "Lnasal", "value": "#001fff" },
+    { "key": "Lpalatine", "value": "#8000ff" },
+    { "key": "Lparietal", "value": "#ff00ff" },
+    { "key": "Ltemporal2", "value": "#ff0000" },
+    { "key": "Lzygomatic", "value": "#ff8f00" },
+    { "key": "Mandible", "value": "#fbff00" },
+    { "key": "Occipital", "value": "#27ff00" },
+    { "key": "Rfrontal", "value": "#001fff" },
+    { "key": "Rinferiornasalconcha", "value": "#8000ff" },
+    { "key": "Rmaxilla", "value": "#ff00ff" },
+    { "key": "Rnasal", "value": "#ff0000" },
+    { "key": "Rpalatine", "value": "#ff8f00" },
+    { "key": "Rparietal", "value": "#fbff00" },
+    { "key": "Rtemporal2", "value": "#27ff00" },
+    { "key": "Rzygomatic", "value": "#001fff" },
+    { "key": "Sphenoid", "value": "#8000ff" },
+    { "key": "Vomer", "value": "#ff00ff" },
+    { "key": "MaxillarTeeth", "value": "Bone" },
+    { "key": "MandibularTeeth", "value": "Teeth" },
+    { "key": "Mandible", "value": "Bone" },
+    { "key": "Cranium", "value": "Bone" },
+    { "key": "Calotte", "value": "Bone" }
+  ]
+}

@@ -7,37 +7,27 @@
         {
             "PartName": "Aotus108_MaxillarTeeth",
             "DisplayName": "Maxillar Teeth",
-            "PartDescription": "The Maxillar Teeth Bone",
-            "PartColor": "#ff0000",
-            "PartType": "Bone"
+            "PartDescription": "The Maxillar Teeth Bone"
         },
         {
             "PartName": "Aotus108_MandibularTeeth",
             "DisplayName": "Mandibular Teeth",
-            "PartDescription": "The Mandibular Teeth Bone",
-            "PartColor": "#ff8f00",
-            "PartType": "Bone"
+            "PartDescription": "The Mandibular Teeth Bone"
         },
         {
             "PartName": "Aotus108_Mandible",
             "DisplayName": "Mandible Bone",
-            "PartDescription": "The Mandible Bone",
-            "PartColor": "#fbff00",
-            "PartType": "Bone"
+            "PartDescription": "The Mandible Bone"
         },
         {
             "PartName": "Aotus108_Cranium",
             "DisplayName": "Cranium Bone",
-            "PartDescription": "The Cranium Bone",
-            "PartColor": "#27ff00",
-            "PartType": "Tooth"
+            "PartDescription": "The Cranium Bone"
         },
         {
             "PartName": "Aotus108_Calotte",
             "DisplayName": "Calotte Bone",
-            "PartDescription": "The Calotte Bone",
-            "PartColor": "#001fff",
-            "PartType": "Bone"
+            "PartDescription": "The Calotte Bone"
         }
     ]
 }
