@@ -1,6 +1,7 @@
 {
     "ModelName": "CP17",
     "Description": "The Skull of CP17",
+    "ViewerType": "Colors",
     "URL": "https://digitalworlds.github.io/CURE25_Test/models/CP17/CP17.glb",
     "Parts":
     [
